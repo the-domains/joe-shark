@@ -41,6 +41,9 @@ purpose:
   - type: external
     url: 'http://www.AgentShark.us'
     label: Click To view Homes For Sale
+  - type: contact
+    url: 'tel:5167788869'
+    label: Call 5167788869
 title: '#AgentShark'
 description: Joseph Shark Perez- Licensed Real Estate Sales Person
 github: true
