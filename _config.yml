@@ -1,17 +1,17 @@
-name: '#AgentShark'
-layout_spectrum: 0.8554780127014965
-typography_spectrum: 0.13577520428225398
+layout_spectrum: 0.042804580181468245
+typography_spectrum: 0.9976575503744517
 color:
-  brandStrength: 0.21723045594990253
-  lightness: 0.5882596482988447
-  saturation: 0.33050574245862663
-  rhythmicContrast: 0.173688460374251
+  brandStrength: 0.8069363382552741
+  lightness: 0.3395243976972444
+  saturation: 0.2273560177519143
+  rhythmicContrast: 0.4591536902721123
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#4F4388'
+    - '#FFFFFF'
+    - '#9D93BB'
+    - '#DED6E2'
+    - '#696086'
+name: '#AgentShark'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
