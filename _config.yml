@@ -1,4 +1,4 @@
-name: Joe Shark
+name: '#AgentShark'
 layout_spectrum: 0.8554780127014965
 typography_spectrum: 0.13577520428225398
 color:
@@ -50,4 +50,5 @@ content_rating:
   adult: false
 author:
   name: Joseph Shark Perez
+  url: 'http://www.AgentShark.us'
 url: 'http://joeshark.com'
