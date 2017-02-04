@@ -1,5 +1,6 @@
-layout_spectrum: 0.042804580181468245
 typography_spectrum: 0.9976575503744517
+content_rating:
+  adult: false
 color:
   brandStrength: 0.8069363382552741
   lightness: 0.3395243976972444
@@ -11,7 +12,20 @@ color:
     - '#9D93BB'
     - '#DED6E2'
     - '#696086'
+github: true
+layout_spectrum: 0.042804580181468245
+author:
+  name: Joseph Shark Perez
+  url: 'http://www.JoeShark.com'
 name: '#AgentShark'
+url: 'http://joeshark.com'
+navigation:
+  - name: About Us
+    id: d79d983e-236b-4c4f-b967-7ecd5e5e20dd
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b76bab04-b288-4da4-8a99-b67e9aadfed9.jpg
+title: '#AgentShark'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -21,22 +35,23 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/15a58cbb-9317-408d-992b-5dc689b2d8fd.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+description: Joseph Shark Perez- Licensed Real Estate Sales Person
 purpose:
   - type: external
     url: 'http://www.AgentShark.us'
@@ -44,14 +59,3 @@ purpose:
   - type: contact
     url: 'tel:5167788869'
     label: Call 5167788869
-title: '#AgentShark'
-description: Joseph Shark Perez- Licensed Real Estate Sales Person
-github: true
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b76bab04-b288-4da4-8a99-b67e9aadfed9.jpg
-content_rating:
-  adult: false
-author:
-  name: Joseph Shark Perez
-  url: 'http://www.JoeShark.com'
-url: 'http://joeshark.com'
