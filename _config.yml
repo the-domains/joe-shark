@@ -1,0 +1,53 @@
+name: Joe Shark
+layout_spectrum: 0.8554780127014965
+typography_spectrum: 0.13577520428225398
+color:
+  brandStrength: 0.21723045594990253
+  lightness: 0.5882596482988447
+  saturation: 0.33050574245862663
+  rhythmicContrast: 0.173688460374251
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/15a58cbb-9317-408d-992b-5dc689b2d8fd.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/15a58cbb-9317-408d-992b-5dc689b2d8fd.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+purpose:
+  - type: external
+    url: 'http://www.AgentShark.us'
+    label: Click To view Homes For Sale
+title: '#AgentShark'
+description: Joseph Shark Perez- Licensed Real Estate Sales Person
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b76bab04-b288-4da4-8a99-b67e9aadfed9.jpg
+content_rating:
+  adult: false
+author:
+  name: Joseph Shark Perez
+url: 'http://joeshark.com'
