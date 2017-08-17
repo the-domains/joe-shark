@@ -1,31 +1,44 @@
+name: '#AgentShark'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d13516a9-7bc3-4403-959c-6cb6ab95812b.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d772b63f-6380-43b4-b23f-8cbbc43e3817.png
+layout_spectrum: 0.042804580181468245
 typography_spectrum: 0.9976575503744517
-content_rating:
-  adult: false
+opengraph:
+  type: ''
+  appId: ''
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6dc59eb-24fb-4cde-a026-f970a9ab2ca4.jpg
 color:
-  brandStrength: 0.8069363382552741
-  lightness: 0.3395243976972444
-  saturation: 0.2273560177519143
-  rhythmicContrast: 0.4591536902721123
   brandColors:
     - '#4F4388'
     - '#FFFFFF'
     - '#9D93BB'
     - '#DED6E2'
     - '#696086'
-github: true
-layout_spectrum: 0.042804580181468245
+  brandStrength: 0.8069363382552741
+  lightness: 0.3395243976972444
+  saturation: 0.2273560177519143
+  rhythmicContrast: 0.4591536902721123
+purpose:
+  - type: external
+    label: Click To view Homes For Sale
+    url: 'http://www.AgentShark.us'
+  - type: contact
+    label: Call 5167788869
+    url: 'tel:5167788869'
+title: '#AgentShark'
+description: Joseph Shark Perez- Licensed Real Estate Sales Person
 author:
   name: Joseph Shark Perez
   url: 'http://www.JoeShark.com'
-name: '#AgentShark'
-url: 'http://joeshark.com'
+content_rating:
+  adult: false
 navigation:
   - name: About Us
     id: d79d983e-236b-4c4f-b967-7ecd5e5e20dd
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b76bab04-b288-4da4-8a99-b67e9aadfed9.jpg
-title: '#AgentShark'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -35,27 +48,17 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/15a58cbb-9317-408d-992b-5dc689b2d8fd.jpg
     metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      app_links: []
+      '@context': 'http://schema.org'
+      keywords: []
       publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
       description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Joseph Shark Perez- Licensed Real Estate Sales Person
-purpose:
-  - type: external
-    url: 'http://www.AgentShark.us'
-    label: Click To view Homes For Sale
-  - type: contact
-    url: 'tel:5167788869'
-    label: Call 5167788869
+github: true
