@@ -22,9 +22,6 @@ color:
   saturation: 0.2273560177519143
   rhythmicContrast: 0.4591536902721123
 purpose:
-  - type: external
-    label: 'http://www.MrHome.realty'
-    url: 'http://www.MrHome.realty'
   - type: contact
     label: Call 5167788869
     url: 'tel:5167788869'
