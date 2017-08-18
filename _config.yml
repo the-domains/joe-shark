@@ -1,26 +1,26 @@
+layout_spectrum: 0.7210003176619215
+typography_spectrum: 0.7665416107968529
+color:
+  brandColors:
+    - '#85C226'
+    - '#9B9B9B'
+    - '#006C67'
+    - '#000000'
+    - '#808000'
+  brandStrength: 0.4460370428727405
+  lightness: 0.7502915712562159
+  saturation: 0.901271002967427
+  rhythmicContrast: 0.5286752874085145
 name: '#AgentShark'
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d13516a9-7bc3-4403-959c-6cb6ab95812b.jpg
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d772b63f-6380-43b4-b23f-8cbbc43e3817.png
-layout_spectrum: 0.042804580181468245
-typography_spectrum: 0.9976575503744517
 opengraph:
   type: ''
   appId: ''
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6dc59eb-24fb-4cde-a026-f970a9ab2ca4.jpg
-color:
-  brandColors:
-    - '#4F4388'
-    - '#FFFFFF'
-    - '#9D93BB'
-    - '#DED6E2'
-    - '#696086'
-  brandStrength: 0.8069363382552741
-  lightness: 0.3395243976972444
-  saturation: 0.2273560177519143
-  rhythmicContrast: 0.4591536902721123
 purpose:
   - type: contact
     label: Call 5167788869
@@ -81,7 +81,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
