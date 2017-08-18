@@ -25,6 +25,9 @@ purpose:
   - type: contact
     label: Call 5167788869
     url: 'tel:5167788869'
+  - type: external
+    url: 'http://www.MrHome.realty'
+    label: View Homes For Sale Here
 title: '#AgentShark'
 description: Joseph Shark Perez- Licensed Real Estate Sales Person
 author:
