@@ -23,8 +23,8 @@ color:
   rhythmicContrast: 0.4591536902721123
 purpose:
   - type: external
-    label: Click To view Homes For Sale
-    url: 'http://www.AgentShark.us'
+    label: 'http://www.MrHome.realty'
+    url: 'http://www.MrHome.realty'
   - type: contact
     label: Call 5167788869
     url: 'tel:5167788869'
@@ -102,7 +102,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
